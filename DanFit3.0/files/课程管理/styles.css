@@ -336,7 +336,7 @@
   left:0px;
   top:0px;
   width:758px;
-  height:134px;
+  height:184px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -351,9 +351,9 @@
   border-width:0px;
   position:absolute;
   left:1180px;
-  top:246px;
+  top:196px;
   width:758px;
-  height:134px;
+  height:184px;
   font-size:20px;
   color:#FFFFFF;
 }
@@ -496,37 +496,21 @@
   position:absolute;
   left:0px;
   top:-4px;
-  width:196px;
+  width:206px;
   height:8px;
 }
 #u2647_seg1 {
   border-width:0px;
   position:absolute;
-  left:188px;
-  top:-4px;
-  width:8px;
-  height:33px;
-}
-#u2647_seg2 {
-  border-width:0px;
-  position:absolute;
-  left:188px;
-  top:21px;
-  width:14px;
-  height:8px;
-}
-#u2647_seg3 {
-  border-width:0px;
-  position:absolute;
   left:189px;
-  top:15px;
+  top:-10px;
   width:20px;
   height:20px;
 }
 #u2647_text {
   border-width:0px;
   position:absolute;
-  left:64px;
+  left:51px;
   top:-8px;
   width:100px;
   visibility:hidden;
@@ -554,15 +538,15 @@
   border-width:0px;
   position:absolute;
   left:377px;
-  top:-29px;
+  top:-54px;
   width:8px;
-  height:33px;
+  height:58px;
 }
 #u2648_seg2 {
   border-width:0px;
   position:absolute;
   left:377px;
-  top:-29px;
+  top:-54px;
   width:14px;
   height:8px;
 }
@@ -570,14 +554,14 @@
   border-width:0px;
   position:absolute;
   left:378px;
-  top:-35px;
+  top:-60px;
   width:20px;
   height:20px;
 }
 #u2648_text {
   border-width:0px;
   position:absolute;
-  left:158px;
+  left:170px;
   top:-8px;
   width:100px;
   visibility:hidden;
@@ -606,37 +590,37 @@
   position:absolute;
   left:-4px;
   top:-14px;
-  width:197px;
+  width:137px;
   height:8px;
 }
 #u2649_seg2 {
   border-width:0px;
   position:absolute;
-  left:185px;
-  top:-14px;
+  left:125px;
+  top:-26px;
   width:8px;
-  height:21px;
+  height:20px;
 }
 #u2649_seg3 {
   border-width:0px;
   position:absolute;
-  left:185px;
-  top:-1px;
-  width:14px;
+  left:125px;
+  top:-26px;
+  width:74px;
   height:8px;
 }
 #u2649_seg4 {
   border-width:0px;
   position:absolute;
   left:186px;
-  top:-7px;
+  top:-32px;
   width:20px;
   height:20px;
 }
 #u2649_text {
   border-width:0px;
   position:absolute;
-  left:51px;
+  left:50px;
   top:-18px;
   width:100px;
   visibility:hidden;
