@@ -13,7 +13,7 @@
   position:absolute;
   z-index:0;
 }
-#u2596_img {
+#u2594_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -21,13 +21,63 @@
   width:346px;
   height:568px;
 }
-#u2596 {
+#u2594 {
   border-width:0px;
   position:absolute;
   left:72px;
   top:47px;
   width:346px;
   height:568px;
+}
+#u2594_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2595_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:487px;
+  height:722px;
+}
+#u2595 {
+  border-width:0px;
+  position:absolute;
+  left:497px;
+  top:47px;
+  width:487px;
+  height:722px;
+}
+#u2595_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2596_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:296px;
+  height:509px;
+}
+#u2596 {
+  border-width:0px;
+  position:absolute;
+  left:1092px;
+  top:47px;
+  width:296px;
+  height:509px;
 }
 #u2596_text {
   border-width:0px;
@@ -43,60 +93,10 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:487px;
-  height:722px;
-}
-#u2597 {
-  border-width:0px;
-  position:absolute;
-  left:497px;
-  top:47px;
-  width:487px;
-  height:722px;
-}
-#u2597_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u2598_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:296px;
-  height:509px;
-}
-#u2598 {
-  border-width:0px;
-  position:absolute;
-  left:1092px;
-  top:47px;
-  width:296px;
-  height:509px;
-}
-#u2598_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u2599_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
   width:459px;
   height:556px;
 }
-#u2599 {
+#u2597 {
   border-width:0px;
   position:absolute;
   left:1491px;
@@ -104,7 +104,7 @@
   width:459px;
   height:556px;
 }
-#u2599_text {
+#u2597_text {
   border-width:0px;
   position:absolute;
   left:0px;
