@@ -479,7 +479,7 @@
     <!--<link type="text/css" rel="Stylesheet" href="plugins/recordplay/styles/recordplay.css" />
     <script type="text/javascript" src="plugins/recordplay/recordplay.js"></script>-->
     
-
+<script id="notifyToIdoc">function notifyIdoc(a){if(window.$&&$.get){$.get("http://localhost:32760/notify?port="+location.port)}else{if(a<3000){setTimeout(function(){notifyIdoc(a+300)},300)}}}notifyIdoc(0);</script>
 </head>
 <body scroll="no" class="hashover">
     <div id="outerContainer">
