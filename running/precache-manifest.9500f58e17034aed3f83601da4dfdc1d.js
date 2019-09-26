@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "79f3cb15eb62521585039c7a1e38c2cc",
-    "url": "./assets/images/icon-mission.png"
+    "revision": "e0f60c6a53a9fa0342c28534a5aca4c9",
+    "url": "./assets/images/icon-prize.png"
   },
   {
     "revision": "6cc62ceedbe5f44b42e9",
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "./js/vendor.bundle.js"
   },
   {
-    "revision": "854fe2768dea81e60035be21f5e66f2a",
-    "url": "./assets/images/icon-loading.png"
+    "revision": "79f3cb15eb62521585039c7a1e38c2cc",
+    "url": "./assets/images/icon-mission.png"
   },
   {
     "revision": "36afe6abe995e6efbb97ba994da61e42",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "./assets/images/tree2.png"
   },
   {
-    "revision": "b767207a9d0580a2b003d50142067f7d",
-    "url": "./assets/images/goods.png"
+    "revision": "55a9dc893dd6f84470933dc1e0b0a44b",
+    "url": "./assets/images/icon-close.png"
   },
   {
     "revision": "ec9546f70f04b85807d51a1f7fc5ea3e",
@@ -56,20 +56,20 @@ self.__precacheManifest = [
     "url": "./assets/images/cactus.png"
   },
   {
-    "revision": "d16ff7fdf3d97ac4f2371100a0bf3e77",
-    "url": "./assets/images/icon-charts.png"
-  },
-  {
     "revision": "00006ded0f31bb8e3ece5f2af1cbe2d2",
     "url": "./assets/images/go.png"
+  },
+  {
+    "revision": "854fe2768dea81e60035be21f5e66f2a",
+    "url": "./assets/images/icon-loading.png"
   },
   {
     "revision": "f028595776e3bf5824beaecb9be63f48",
     "url": "./assets/images/icon-shop.png"
   },
   {
-    "revision": "e0f60c6a53a9fa0342c28534a5aca4c9",
-    "url": "./assets/images/icon-prize.png"
+    "revision": "d16ff7fdf3d97ac4f2371100a0bf3e77",
+    "url": "./assets/images/icon-charts.png"
   },
   {
     "revision": "c91cb53937871e72735cd7a5918bccb0",
@@ -80,10 +80,6 @@ self.__precacheManifest = [
     "url": "./assets/images/img-explain.png"
   },
   {
-    "revision": "624227968a14f7ab9ea52e2168662d8c",
-    "url": "./assets/images/girl.png"
-  },
-  {
     "revision": "94f1da1b4dd37a8925768674dd72d2ed",
     "url": "./assets/images/bg-run-num.png"
   },
@@ -92,8 +88,12 @@ self.__precacheManifest = [
     "url": "./assets/images/img-prd-num.png"
   },
   {
-    "revision": "55a9dc893dd6f84470933dc1e0b0a44b",
-    "url": "./assets/images/icon-close.png"
+    "revision": "b767207a9d0580a2b003d50142067f7d",
+    "url": "./assets/images/goods.png"
+  },
+  {
+    "revision": "624227968a14f7ab9ea52e2168662d8c",
+    "url": "./assets/images/girl.png"
   },
   {
     "revision": "460bef2c99758c2322f08d6d04482df0",
